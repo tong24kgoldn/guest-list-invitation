@@ -1,0 +1,14 @@
+# Vercel deployment artifacts
+.vercel
+
+# Original uncompressed camera photos backup
+img/originals/
+
+# Local guest links generator (personal/offline tool)
+guest-links.html
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
